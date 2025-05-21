@@ -1,6 +1,6 @@
 # Shyam Uppal
 
-🌐 [GitHub](https://github.com/Shyam) | 📧 [Outlook](mailto:Shyam@outlook.com)
+🌐 [GitHub](https://github.com/Shyamuppaloutlook) | 📧 [Outlook](mailto:shyamuppal@mail.utoronto.ca)
 
 ---
 
