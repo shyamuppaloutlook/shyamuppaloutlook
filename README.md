@@ -12,13 +12,10 @@ I am a passionate Computer Science and Statistics student at the University of T
 
 ## 👀 I’m interested in ...
 
-- Artificial Intelligence & Machine Learning  
 - Software Development & Engineering  
 - Open Source Contributions  
 - Mobile App Development (Android & iOS)  
-- Data Science & Analytics  
-- Cloud Computing & DevOps
-
+- Data Science & Analytics 
 ---
 
 ## Education
