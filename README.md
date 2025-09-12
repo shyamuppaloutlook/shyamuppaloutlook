@@ -14,8 +14,8 @@ I am a passionate Computer Science and Statistics student at the University of T
 
 - Software Development & Engineering  
 - Open Source Contributions  
-- Mobile App Development (Android & iOS)  
-- Data Science & Analytics 
+- Mobile App Development (Android & iOS)
+    
 ---
 
 ## Education
@@ -28,32 +28,29 @@ Sept 2023 – July 2027
 
 ## Experience
 
-### Start-up Owner | Department of Entrepreneurship & CS  
+### Start-up Found | Department of Entrepreneurship & CS  
 *Feb 2025 – Present*  
+- Founded the start-up to help reach health care services all over Canada to help people
 - Developed an Android health check-up app using Java and Kotlin, emphasizing Clean Architecture and SOLID principles.
 
-### Microsoft GitHub Contributor | MiMalloc & Other Projects  
+### Open Source Contributor | Microsoft GitHub  
 *Jan 2025 – Present*  
 - Contributed to the “mimalloc” project by adding new features and collaborating with a global community of developers.  
-- Technologies: Python, Matplotlib, Pandas, GitHub.
-
-### GitHub Contributor | Microsoft  
-*Apr 2025 – Present*  
-- Enhanced functionalities within the “mimalloc” repository, working alongside hundreds of contributors.
-
----
+- Enhanced the quality of code by chaning 5000 lines of code and decreasing run time by 20%.
+- Used SOLID principles, code prganization and clean architecture to maitain code quality and effeciency. 
 
 ## Projects
 
 ### Recipes GUI  
 *Sep 2024 – Dec 2024*  
-- Created a user-friendly recipe learning application with Java and Swing.  
-- Integrated various APIs and databases, following Clean Architecture and SOLID principles.
+- Created an application for users to learn new recipes or share their own recipes with others.  
+- Integrated recipe APIs, Sql databases with main clien code efficietly
 
 ### Hospital Database System  
 *Jan 2022 – Apr 2022*  
+- Created the main UI for the Hospital system for users to choose respective options and automate their requests with no delay.
 - Designed a hospital record management system using Python and MySQL, facilitating efficient data retrieval and storage.
-
+  
 ---
 
 ## Volunteering
