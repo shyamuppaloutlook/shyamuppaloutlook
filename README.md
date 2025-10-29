@@ -22,7 +22,15 @@ Sept 2023 – July 2027
 *Oct 2025 - Ongoing*  
 - Contributed to the “mimalloc” project by adding new features and collaborating with a global community of developers.  
 - Enhanced the quality of code by chaning 5000 lines of code and decreasing run time by 20%.
-- Used SOLID principles, code prganization and clean architecture to maitain code quality and effeciency. 
+- Used SOLID principles, code prganization and clean architecture to maitain code quality and effeciency.
+
+### Project Manager | Department of Entrepreneurship
+*Jan 2025 - April 2025*
+- Developed an Android application to help decrease the latency in booking appointments and get remedies.
+- Initiated our project 'FamilyKare' to help working class and aged people to connect with their beloved doctors all over the world with no delay.
+- Used SOLID principles, Clean Architecture, Code Organiziation and Version Control to develop the app.
+- Managed the team to fulfill all the work on time and gave assitance wherever required.
+
 
 ## Projects
 
