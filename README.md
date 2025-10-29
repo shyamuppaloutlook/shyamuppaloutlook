@@ -8,16 +8,6 @@
 
 I am a passionate Computer Science and Statistics student at the University of Toronto, with experience in app development, open-source contributions, and project management. I thrive on solving complex problems, collaborating with diverse teams, and building innovative solutions.
 
----
-
-## 👀 I’m interested in ...
-
-- Software Development & Engineering  
-- Open Source Contributions  
-- Mobile App Development (Android & iOS)
-    
----
-
 ## Education
 
 **University of Toronto**  
