@@ -1,6 +1,7 @@
 # Shyam Uppal
 
-🌐 [Portfolio](https://shyamuppaloutlook.github.io/_portfolio.github.io/) | 📧 [Outlook](mailto:shyamuppal@mail.utoronto.ca)
+ <img width="148" height="148" alt="image" src="https://github.com/user-attachments/assets/6e8d8080-33f6-488b-9c66-1731442a92c1" />
+[LinkedIn][] 📧 [Outlook](mailto:shyamuppal@mail.utoronto.ca)
 
 ---
 
