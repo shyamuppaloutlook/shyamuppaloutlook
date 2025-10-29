@@ -18,40 +18,28 @@ Sept 2023 – July 2027
 
 ## Experience
 
-### Start-up Found | Department of Entrepreneurship & CS  
-*Feb 2025 – Present*  
-- Founded the start-up to help reach health care services all over Canada to help people
-- Developed an Android health check-up app using Java and Kotlin, emphasizing Clean Architecture and SOLID principles.
-
-### Open Source Contributor | Microsoft GitHub  
-*Jan 2025 – Present*  
+### Open Source Contributor | CommaAi
+*Oct 2025 - Ongoing*  
 - Contributed to the “mimalloc” project by adding new features and collaborating with a global community of developers.  
 - Enhanced the quality of code by chaning 5000 lines of code and decreasing run time by 20%.
 - Used SOLID principles, code prganization and clean architecture to maitain code quality and effeciency. 
 
 ## Projects
 
-### Recipes GUI  
-*Sep 2024 – Dec 2024*  
-- Created an application for users to learn new recipes or share their own recipes with others.  
-- Integrated recipe APIs, Sql databases with main clien code efficietly
 
 ### Hospital Database System  
 *Jan 2022 – Apr 2022*  
-- Created the main UI for the Hospital system for users to choose respective options and automate their requests with no delay.
-- Designed a hospital record management system using Python and MySQL, facilitating efficient data retrieval and storage.
-  
+- Created the main UI for the Hospital system for users to book their appointments and automate their requests with no delay.
+- Designed a hospital record Database using Python and MySQL, facilitating efficient data retrieval and storage.
+
 ---
 
 ## Volunteering
 
 ### Global Scholar | University of Toronto  
 *Jan 2025 – Present*  
-- Promoting cultural awareness and global-mindedness through university initiatives.
-
-### Conservation Society Lead | High School  
-*Dec 2021 – Mar 2022*  
-- Organized environmental awareness campaigns and events, recognized with a leadership certificate.
+- Promoting 'cultural awareness' and 'global mindedness' through university initiatives.
+- Connected with people from different parts of the world bringing 'cultural togetherness' and learning the importance of 'global minded' 
 
 ---
 
