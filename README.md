@@ -6,7 +6,7 @@
 
 ## About Me
 
-I am a passionate Computer Science and Statistics student at the University of Toronto, with experience in app development, open-source contributions, and project management. I thrive on solving complex problems, collaborating with diverse teams, and building innovative solutions.
+I am a passionate Computer Science and Statistics student at University of Toronto, with experience in app development, open-source contributions, and project management. I thrive on solving complex problems, collaborating with diverse teams, and building innovative solutions.
 
 ## Education
 
