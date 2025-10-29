@@ -34,11 +34,17 @@ Sept 2023 – July 2027
 
 ## Projects
 
+### Skin Ai
+*Jun 2025 - Aug 2025*
+- Devloped an anroid application for users to learn more about their skin with just one pic.
+- Used Gemini Api to connect the backend with thousands of google sites to get best response based on the given picture.
+- Wrote 10000+ lines of code following the design principles.
 
 ### Hospital Database System  
 *Jan 2022 – Apr 2022*  
-- Created the main UI for the Hospital system for users to book their appointments and automate their requests with no delay.
-- Designed a hospital record Database using Python and MySQL, facilitating efficient data retrieval and storage.
+- Designed the main UI for users to book their appointments and automate their requests with no delay.
+- Developed a hospital record Database using Python, NumPy and MySQL to facialiate efficient data retrieval and storage.
+- Used MatPlotLib to give realtime analysis about the stored records with graphical representations.
 
 ---
 
