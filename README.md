@@ -1,6 +1,6 @@
 # Shyam Uppal
 
- <img width="16" height="24" alt="image" src="https://github.com/user-attachments/assets/34fa315b-1b0d-4950-a323-e6d4394b00c2" /> [LinkedIn] (https://ca.linkedin.com/) 📧 [Outlook](mailto:shyamuppal@mail.utoronto.ca)
+ <img width="16" height="24" alt="image" src="https://github.com/user-attachments/assets/34fa315b-1b0d-4950-a323-e6d4394b00c2" /> [LinkedIn](https://www.linkedin.com/in/shyam-uppal-33b3aa2b2/) 📧 [Outlook](mailto:shyamuppal@mail.utoronto.ca)
 
 ---
 
