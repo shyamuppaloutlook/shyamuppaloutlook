@@ -6,7 +6,7 @@
 
 ## About Me
 
-I am a passionate Computer Science and Statistics student at University of Toronto, with experience in app development, open-source contributions, and project management. I thrive on solving complex problems, collaborating with diverse teams, and building innovative solutions.
+I am a passionate Computer Science and Mathematics student at University of Toronto, with experience in app development, open-source contributions, and project management. I thrive on solving complex problems, collaborating with diverse teams, and building innovative solutions.
 
 ## Education
 
@@ -20,24 +20,35 @@ Sept 2023 – July 2027
 
 ### Open Source Contributor | CommaAi
 *Oct 2025 - Ongoing*  
-- Contributed to the “OpenPilot” project by adding new features and finding possible flaws.  
-- Refactored code and verified the program to ensure the total correctness.
+• Refactored modules to improve code maintainability and modularity, significantly reducing technical debt.
+• Diagnosed and resolved complex logic errors, ensuring system stability under high-load scenarios
+• Added ... to Openpilot project, adhering to strict coding standards and architectural patte
 
 ### Project Manager | Department of Entrepreneurship
 *Jan 2025 - April 2025*
-- Developed an Android application to help decrease the latency in booking appointments and get remedies.
-- Initiated our project 'FamilyKare' to help working class and aged people to connect with their beloved doctors all over the world with no delay.
-- Used SOLID principles, Clean Architecture, Code Organiziation and Version Control.
-- Managed the team to fulfill all the work on time and gave assitance wherever required.
-
+Initiated our project FamilyKare to decrease latency in buying prescriptions and booking appointments online.
+• Developed an android application with an interactive and user friendly interface, adhering to design principles.
+• Designed a scalable codebase utilizing Clean Architecture, ensuring long-term maintainability.
+• Optimized data synchronization and API calls, successfully reducing appointment booking latency by 40.
+• Managed the team to fulfill all the work on time and gave assistance wherever required.
+• Engineered a matching algorithm that utilizes user’s demographics and preferences to suggest optimal specialists.
 
 ## Projects
 
 ### Skin Ai
 *Jun 2025 - Aug 2025*
-- Devloped an anroid application for users to learn more about their skin with just one pic.
-- Used Gemini Api to connect the backend with thousands of google sites to get best response based on the given picture.
-- Wrote 10000+ lines of code following the design principles.
+• Created an interactive Android interface focused on minimal-step image submission and diagnostic self-learning.
+• Integrated Gemini API as the core backend, handling complex image processing and context-aware searching.
+• Followed strict software Design Principles and maintained Version Control.
+• Developed optimized retrieval scripts to minimize latency in delivering synthesized web search results, ensuring
+  rapid user feedback.
+
+### Recipe Learner
+*Sep. 2024 - Jan. 2025*
+ Engineered a high-performance recipe generation application capable of creating personalized recipes.
+• Designed a robust data integration layer, handling asynchronous API calls and processing JSON data structures.
+• Developed an interactive social interface allowing users to create, save, and share custom recipes, utilizing material
+ designs for an optimal user experience
 
 ### Hospital Database System  
 *Jan 2022 – Apr 2022*  
