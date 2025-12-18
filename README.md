@@ -26,29 +26,29 @@ Sept 2023 – July 2027
 
 ### Project Manager | Department of Entrepreneurship
 *Jan 2025 - April 2025*
-Initiated our project FamilyKare to decrease latency in buying prescriptions and booking appointments online.
-• Developed an android application with an interactive and user friendly interface, adhering to design principles.
-• Designed a scalable codebase utilizing Clean Architecture, ensuring long-term maintainability.
-• Optimized data synchronization and API calls, successfully reducing appointment booking latency by 40.
-• Managed the team to fulfill all the work on time and gave assistance wherever required.
-• Engineered a matching algorithm that utilizes user’s demographics and preferences to suggest optimal specialists.
+- Initiated our project FamilyKare to decrease latency in buying prescriptions and booking appointments online.
+- Developed an android application with an interactive and user friendly interface, adhering to design principles.
+- Designed a scalable codebase utilizing Clean Architecture, ensuring long-term maintainability.
+- Optimized data synchronization and API calls, successfully reducing appointment booking latency by 40.
+- Managed the team to fulfill all the work on time and gave assistance wherever required.
+- Engineered a matching algorithm that utilizes user’s demographics and preferences to suggest optimal specialists.
 
 ## Projects
 
 ### Skin Ai
 *Jun 2025 - Aug 2025*
-• Created an interactive Android interface focused on minimal-step image submission and diagnostic self-learning.
-• Integrated Gemini API as the core backend, handling complex image processing and context-aware searching.
-• Followed strict software Design Principles and maintained Version Control.
-• Developed optimized retrieval scripts to minimize latency in delivering synthesized web search results, ensuring
+- Created an interactive Android interface focused on minimal-step image submission and diagnostic self-learning.
+- Integrated Gemini API as the core backend, handling complex image processing and context-aware searching.
+- Followed strict software Design Principles and maintained Version Control.
+- Developed optimized retrieval scripts to minimize latency in delivering synthesized web search results, ensuring
   rapid user feedback.
 
 ### Recipe Learner
 *Sep. 2024 - Jan. 2025*
- Engineered a high-performance recipe generation application capable of creating personalized recipes.
-• Designed a robust data integration layer, handling asynchronous API calls and processing JSON data structures.
-• Developed an interactive social interface allowing users to create, save, and share custom recipes, utilizing material
- designs for an optimal user experience
+- Engineered a high-performance recipe generation application capable of creating personalized recipes.
+- Designed a robust data integration layer, handling asynchronous API calls and processing JSON data structures.
+- Developed an interactive social interface allowing users to create, save, and share custom recipes, utilizing material
+  designs for an optimal user experience
 
 ### Hospital Database System  
 *Jan 2022 – Apr 2022*  
