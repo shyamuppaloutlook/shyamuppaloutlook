@@ -20,9 +20,9 @@ Sept 2023 – July 2027
 
 ### Open Source Contributor | CommaAi
 *Oct 2025 - Ongoing*  
-• Refactored modules to improve code maintainability and modularity, significantly reducing technical debt.
-• Diagnosed and resolved complex logic errors, ensuring system stability under high-load scenarios
-• Added ... to Openpilot project, adhering to strict coding standards and architectural patte
+- Refactored modules to improve code maintainability and modularity, significantly reducing technical debt.
+- Diagnosed and resolved complex logic errors, ensuring system stability under high-load scenarios
+- Added ... to Openpilot project, adhering to strict coding standards and architectural patte
 
 ### Project Manager | Department of Entrepreneurship
 *Jan 2025 - April 2025*
