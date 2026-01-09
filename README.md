@@ -30,7 +30,7 @@ Sept 2023 – July 2027
 - Initiated our project FamilyKare to decrease latency in buying prescriptions and booking appointments online.
 - Developed an android application with an interactive and user friendly interface, adhering to design principles.
 - Designed a scalable codebase utilizing Clean Architecture, ensuring long-term maintainability.
-- Optimized data synchronization and API calls, successfully reducing appointment booking latency by 40.
+- Optimized data synchronization and API calls, successfully reducing appointment booking latency by 40%.
 - Managed the team to fulfill all the work on time and gave assistance wherever required.
 - Engineered a matching algorithm that utilizes user’s demographics and preferences to suggest optimal specialists.
 
